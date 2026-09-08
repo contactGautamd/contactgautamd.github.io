@@ -1,3 +1,3 @@
 ## 📅 Book a Session
 
-🌐 https://contactgautamd.github.io
+🌐 https://contactgautamd.github.io/#contact
